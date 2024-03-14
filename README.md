@@ -35,8 +35,10 @@ $ bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server loca
 
 <img width="517" alt="image" src="https://github.com/NavyaTrilok/Spark-Kafka-Streaming/assets/14071348/476ff1cc-d3e0-4a54-b10e-2b6c54f7bd5a">
 
-<img width="328" alt="image" src="https://github.com/NavyaTrilok/Spark-Kafka-Streaming/assets/14071348/849930c4-82b9-4982-8764-fe626843ca5c">
+<img width="468" alt="image" src="https://github.com/NavyaTrilok/Spark-Kafka-Streaming/assets/14071348/cc6aa810-8475-4e6a-b711-a99344a8ab49">
 
-<img width="468" alt="image" src="https://github.com/NavyaTrilok/Spark-Kafka-Streaming/assets/14071348/cf72e65b-6a1a-4bfd-90da-ca811bc4af90">
+<img width="468" alt="image" src="https://github.com/NavyaTrilok/Spark-Kafka-Streaming/assets/14071348/8dc5dd54-da40-4a76-a3bd-9a62adda4980">
+
+
 
 
